@@ -37,7 +37,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moieo&theme=vue" />
       </td>
       <td style="border:none; padding:4px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moieo&theme=vue&utcOffset=0" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moieo&theme=vue&utcOffset=8" />
       </td>
     </tr>
   </table>
